@@ -4,7 +4,7 @@ A mathematics student at Brawijaya University who has an interest in machine lea
 
 I'm currently learning machine learning at Bangkit Academy 2023 led by Google, GoTo, & Traveloka.
 
-If you are interested in getting to know me, please follow my LinkedIn (https://www.linkedin.com/in/tiararianasari/).
+If you are interested in getting to know me, please follow my (https://www.linkedin.com/in/tiararianasari/).
 
 
 
