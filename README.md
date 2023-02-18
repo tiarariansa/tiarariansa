@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi, there. My name is **Tiara Rianasari**.
+
+I'm a 6th semester math student at Brawijaya University.
+
+I'm currently learning machine learning at <a href="https://github.com/bangkitacademy">@bangkitacademy</a> 2023.
+
+If you are interested in getting to know me, please follow my [LinkedIn] (https://www.linkedin.com/in/tiararianasari/).
+
+
 
 <!--
 **tiarariansa/tiarariansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
