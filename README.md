@@ -1,6 +1,6 @@
 ### Hi!👋 I'm Tiara Rianasari
 
-A mathematics student at Brawijaya University who has an interest in machine learning with a career goal as a Data Analyst.
+A mathematics student at Brawijaya University who has an interest in machine learning with a career goal in data field.
 
 I'm currently learning machine learning at Bangkit Academy 2023 led by Google, GoTo, & Traveloka.
 
