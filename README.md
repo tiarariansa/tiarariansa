@@ -1,10 +1,10 @@
-Hi, there. My name is **Tiara Rianasari**.
+### Hi!👋 I'm Tiara Rianasari
 
-I'm a 6th semester math student at Brawijaya University.
+A mathematics student at Brawijaya University who has an interest in machine learning with a career goal as a Data Analyst.
 
-I'm currently learning machine learning at <a href="https://github.com/bangkitacademy">@bangkitacademy</a> 2023.
+I'm currently learning machine learning at Bangkit Academy 2023 led by Google, GoTo, & Traveloka.
 
-If you are interested in getting to know me, please follow my [LinkedIn] (https://www.linkedin.com/in/tiararianasari/).
+If you are interested in getting to know me, please follow my LinkedIn (https://www.linkedin.com/in/tiararianasari/).
 
 
 
