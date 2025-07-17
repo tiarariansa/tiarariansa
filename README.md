@@ -1,10 +1,11 @@
 ### Hi!👋 I'm Tiara Rianasari
 
-A mathematics student at Brawijaya University who has an interest in machine learning with a career goal in data field.
+Fresh graduate in Mathematics from Universitas Brawijaya with a strong interest in data analysis and machine learning.
+Gained hands-on experience in analyzing data and developing ML models using Python and SQL through academic and internship projects.
+Familiar with BigQuery, Looker Studio, ETL concepts, and basic dashboard creation.
+Certified TensorFlow Developer, proficient in Microsoft Office, and committed to continuous learning in IT and data analytics.
 
-I'm currently learning machine learning at Bangkit Academy 2023 led by Google, GoTo, & Traveloka.
-
-If you are interested in getting to know me, please follow my (https://www.linkedin.com/in/tiararianasari/).
+📬 Let’s connect on (https://www.linkedin.com/in/tiararianasari/).
 
 
 
